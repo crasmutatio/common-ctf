@@ -1,0 +1,6 @@
+Have the browser support the PortSwigger certificate
+- Switch on the Burp proxy in FoxyProxy
+- Download the CA via http://burp/cert
+- Go to about:preferences (Firefox)
+- View certicates and import the PortSwiggr CA file
+Voila
