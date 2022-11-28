@@ -1,0 +1,12 @@
+-zsh
+-oh my zsh
+-theme and font
+-git
+-curl
+- install build-essential gcc make perl dkms
+- install nmap
+- installed Burpsuite
+- installed Tree
+- installed the framework
+- nessus
+- hydra (compilatie, niet via apt)
